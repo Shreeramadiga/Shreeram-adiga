@@ -1,4 +1,4 @@
-9<h1 align="center">Hi 👋, I'm Shreeram adi</h1>
+9<h1 align="center">Hi 👋, I'm Shreeram adiga</h1>
 <h3 align="center">Front-end developer and data engineering</h3>
 
 - 📫 How to reach me **Shreeramadiga13@gmail.com**
